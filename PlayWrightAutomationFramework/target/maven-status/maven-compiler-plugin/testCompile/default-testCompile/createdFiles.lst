@@ -1,0 +1,8 @@
+com\automation\pages\HomePage.class
+com\automation\pages\LoginPage.class
+com\automation\steps\HomePageSteps.class
+com\automation\utils\DriverManager.class
+com\automation\pages\BasePage.class
+com\automation\utils\ConfigReader.class
+com\automation\steps\Hooks.class
+com\automation\steps\LoginPageSteps.class
